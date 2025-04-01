@@ -1,0 +1,12 @@
+body{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.banner{
+    background-image: url(cat.JPG);
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 250px 0;
+} 
+.skills-padding{
+    padding: 70px 0;
+}
